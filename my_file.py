@@ -1,1 +1,1 @@
-print('Merhabalar')
+print('Hard work pays off!')
