@@ -10,4 +10,8 @@
 
 ### Persistency is a major key in order to destroy the procrastination.
 
+<<<<<<< HEAD
 #### Stop making excuses
+=======
+#### Made more changes for git pull/fetch demo
+>>>>>>> origin/master
